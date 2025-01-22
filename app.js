@@ -1,5 +1,5 @@
 
-//Lista para armazenar oos números já sorteados
+//Lista para armazenar os números já sorteados
 let listaDeNumerosSorteados = [];
 // Variável que armazena o numero que limita o intervalo de escolha de número secreto 
 let numeroLimite = 10;
